@@ -78,11 +78,6 @@ This demonstrates a basic authentication workflow in a REST API.
 
 ---
 
-### 4. TCP Stream (Full Request/Response Flow)
-![TCP Stream](screenshots/04-tcp-stream-login-flow.png)
-
----
-
 ## Key Takeaways
 - HTTP requests are visible in plaintext when not encrypted
 - TCP establishes a reliable connection before application data is exchanged

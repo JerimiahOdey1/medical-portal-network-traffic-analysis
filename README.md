@@ -64,17 +64,17 @@ This demonstrates a basic authentication workflow in a REST API.
 ## Screenshots
 
 ### 1. TCP 3-Way Handshake
-![TCP Handshake](screenshots/01-tcp-3way-handshake.png)
+![TCP Handshake](./screenshots/01-tcp-3way-handshake.png)
 
 ---
 
 ### 2. HTTP GET Request
-![GET Request](screenshots/02-http-get-login.png)
+![GET Request](./screenshots/02-http-get-login.png)
 
 ---
 
 ### 3. HTTP POST Login Request (Authentication)
-![POST Login](screenshots/03-http-post-login-authentication.png)
+![POST Login](./screenshots/03-http-post-login-authentication.png)
 
 ---
 
